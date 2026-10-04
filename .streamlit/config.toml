@@ -1,0 +1,14 @@
+# 固定浅色主题：图表配色是按浅色画布 #fcfcfb 校验过的，
+# 跟随系统切换深色会让对比度结论失效。
+[theme]
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#fcfcfb"
+secondaryBackgroundColor = "#f9f9f7"
+textColor = "#0b0b0b"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

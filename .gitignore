@@ -1,0 +1,18 @@
+# ---- 通过 GitHub Release 分发的大文件，不纳入 git 仓库 ----
+# 它们全部超过 GitHub 单文件 100 MiB 上限，直接 push 会被服务端拒绝
+nvngx_dlssnr.dll
+ReShade_Setup_6.8.0_Addon.exe
+renodx-dlss5.addon64
+*.rar
+20-30系显卡/
+40系显卡/
+50系显卡/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---- Streamlit ----
+.streamlit/secrets.toml
