@@ -6,6 +6,10 @@
 
 到 [Releases](https://github.com/y083245/Wuthering-Waves-DLSS5-addon/releases/latest) 页面，下载与你显卡匹配的那**一个**压缩包：
 
+## 这里再附上另外一位大佬所发布的开源项目DLSS5-Swapper
+
+点击 [DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)，这是一款适用于几乎所有游戏的dlss5一键安装器
+
 | 压缩包 | 适用显卡 | 下载体积 | 解压后 |
 | --- | --- | --- | --- |
 | `20-30-series.rar` | RTX 20 / 30 系列 | 132.6 MB | 301.7 MB |
